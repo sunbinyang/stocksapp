@@ -1,0 +1,3 @@
+
+rootProject.name = "StockApp_Java8"
+include ':app'
